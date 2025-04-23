@@ -1,16 +1,5 @@
 # Science-based games
 
-> The list is essentially about educational based games that nailed entertainment (with a focus on scientific phenomenon). - [mettamage on HN](https://news.ycombinator.com/item?id=14661821)
-
-Here is a collaborative notepad with educational/science games, i.e. games that are:
-
-* capturing parts of real scientific phenomena (including social science, medicine, etc),
-* actually playable (you can play them for fun, not ones *"for classroom only"*).
-
-So in general, ones that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
-
-This is a collaborative list dedicated to the public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)), where everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute). It was started, and is being maintained, by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)).
-
 A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
 ## Games
